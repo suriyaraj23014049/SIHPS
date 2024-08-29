@@ -50,6 +50,11 @@ Solution Overview:
 •Templates: Generate and dispatch notices using predefined templates.
 
 
+
+![_e330f0b6-ca02-4767-b661-a020fb97753d](https://github.com/user-attachments/assets/384db420-6ae7-4fa2-a340-72adb57e309c)
+
+
+
 ## Use Cases
 **1.User Authentication:**
 Role-based access control and secure login.
