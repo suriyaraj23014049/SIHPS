@@ -14,8 +14,36 @@ Ministry of Law and Justice
 Objective:
 Create an e-Portal to streamline case management for the Delhi High Court, automating case filing, tracking, and processing to enhance efficiency and reduce paperwork.
 
-## Core Features:
+## Proposed Solution / Architecture Diagram
 
+Objective:
+Develop an e-Portal to streamline and automate case management for the Delhi High Court, integrating key functions into a unified system.
+
+Solution Overview:
+
+1.User Interface:
+Frontend: Build a user-friendly interface with React or Angular for easy navigation and interaction.
+
+2.Authentication:
+Secure Login: Use OAuth2 and multi-factor authentication (MFA) for secure access and role-based permissions.
+
+3.Case Filing:
+Online Submission: Allow users to file cases online and upload documents with automatic case number generation.
+
+4.Caveat Matching:
+Automated System: Match caveats to cases using algorithms and notify users of matches.
+
+5.Case Allocation:
+Automatic Allocation: Assign cases to judges or departments based on rules; include manual override options.
+
+6.Case Tracking:
+Real-Time Updates: Track and update case proceedings in real-time with automated notifications for key events.
+
+7.Notice Generation:
+Templates: Generate and dispatch notices using predefined templates.
+
+
+## Use Cases
 1.User Authentication:
 Role-based access control and secure login.
 
@@ -46,12 +74,6 @@ Advanced search options and customizable reports on case metrics.
 *Database: MySQL, PostgreSQL, or MongoDB.
 *Cloud Services: AWS or Azure.
 
-
-
-## Proposed Solution / Architecture Diagram
-
-
-## Use Cases
 
 
 ## Technology Stack
