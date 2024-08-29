@@ -79,8 +79,11 @@ Advanced search options and customizable reports on case metrics.
 ## Technology Stack
 
 •Frontend: React or Angular
+
 •Backend: Node.js, Python (Django/Flask), or Java (Spring Boot)
+
 •Database: MySQL, PostgreSQL, or MongoDB
+
 •Cloud Services: AWS or Azure
 
 
