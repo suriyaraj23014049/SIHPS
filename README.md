@@ -44,31 +44,31 @@ Templates: Generate and dispatch notices using predefined templates.
 
 
 ## Use Cases
-1.User Authentication:
+**1.User Authentication:**
 Role-based access control and secure login.
 
-2.Case Filing:
+**2.Case Filing:**
 Online submission of cases and documents with automatic case number generation.
 
-3.Caveat Matching:
+**3.Caveat Matching:**
 Automated matching of caveats to cases with notification alerts.
 
-4.Case Allocation:
+**4.Case Allocation:**
 Automatic and manual allocation of cases to judges or departments.
 
-5.Case Tracking:
+**5.Case Tracking:**
 Real-time updates on case proceedings and automated notifications.
 
-6.Notice Generation:
+**6.Notice Generation:**
 Template-based notice creation and automated dispatch.
 
-7.Case Transfer:
+**7.Case Transfer:**
 Online request submission and approval workflow for case transfers.
 
-8.Case Status Search and Reporting:
+**8.Case Status Search and Reporting:**
 Advanced search options and customizable reports on case metrics.
 
-9.Technology Stack:
+**9.Technology Stack:**
 *Frontend: HTML, CSS, JavaScript, React or Angular.
 *Backend: Node.js, Python (Django/Flask), or Java (Spring Boot).
 *Database: MySQL, PostgreSQL, or MongoDB.
