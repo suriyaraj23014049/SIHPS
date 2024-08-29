@@ -84,8 +84,57 @@ Advanced search options and customizable reports on case metrics.
 
 •Database: MySQL, PostgreSQL, or MongoDB
 
-**•**Cloud Services: AWS or Azure
+•Cloud Services: AWS or Azure
 
 
 ## Dependencies
+
+**1. Frontend:**
+
+•Frameworks/Libraries: React or Angular for building dynamic and responsive user interfaces.
+
+•Styling: CSS or pre-processors like SASS for styling; Bootstrap or Material-UI for UI components.
+
+**2. Backend:**
+
+•Server Framework: Node.js with Express, Python with Django or Flask, or Java with Spring Boot for building the server-side logic.
+
+•APIs: RESTful APIs or GraphQL for communication between frontend and backend.
+**3. Database:**
+
+•Database System: MySQL or PostgreSQL for relational data management, or MongoDB for a NoSQL approach.
+
+•ORM: Sequelize for Node.js, Django ORM for Python, or Hibernate for Java to interact with the database.
+**4. Authentication and Security:**
+•Authentication Libraries: OAuth2 libraries for secure authentication, e.g., Passport.js for Node.js or Django Allauth for Python.
+
+•Security Tools: Libraries for handling encryption, secure data storage, and compliance (e.g., Helmet.js for Node.js).
+**5. Document Management:**
+•Document Storage: Cloud storage services like AWS S3 or Azure Blob Storage for storing case files and documents.
+
+•Document Processing: Libraries for document processing and handling (e.g., PDF.js for rendering PDFs).
+**6. Notification System:**
+
+•Notification Services: Integration with email services (e.g., SendGrid, Mailgun) and SMS gateways (e.g., Twilio) for sending notifications.
+**7. Deployment and Hosting:**
+
+•Cloud Platforms: AWS, Azure, or Google Cloud Platform for hosting the application.
+
+•Containerization: Docker for containerizing the application, and Kubernetes for orchestration if needed.
+**8. Development and Collaboration Tools:**
+
+•Version Control: Git for version control, with platforms like GitHub or GitLab for repository management.
+
+•CI/CD: Tools like Jenkins, GitHub Actions, or GitLab CI/CD for continuous integration and deployment.
+**9. Testing:**
+
+•Testing Frameworks: Jest or Mocha for JavaScript, PyTest for Python, or JUnit for Java for unit and integration testing.
+
+•End-to-End Testing: Selenium or Cypress for automated end-to-end testing.
+**10. Documentation:**
+
+•Documentation Tools: Swagger for API documentation, and tools like Docusaurus or MkDocs for project documentation.
+
+
+These dependencies will help in building, deploying, and maintaining the e-Portal effectively.
 
